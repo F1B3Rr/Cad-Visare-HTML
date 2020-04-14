@@ -1,0 +1,38 @@
+body
+{
+	background-repeat: no-repeat;
+    background-color: #F1F0EA;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: normal;
+    LETTER-SPACING: normal;
+    TEXT-TRANSFORM: none;
+    WORD-SPACING: normal;
+    text-align:left;
+}
+
+.rapportHeader {
+	FONT-SIZE: 22px;
+	FONT-WEIGHT: bold;
+}
+
+.tableHeaderRowstyle {
+	FONT-SIZE: 16px;
+	FONT-WEIGHT: bold;
+}
+
+.tableBenamning {
+	FONT-SIZE: 16px;
+	FONT-WEIGHT: normal;
+}
+
+.tableValueBold {
+	FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+}
+
+.tableValue {
+	FONT-SIZE: 14px;
+	FONT-WEIGHT: normal;
+}
+
